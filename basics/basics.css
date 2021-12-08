@@ -1,0 +1,16 @@
+section {
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    margin: 20px auto;
+    width: 960px;
+    text-align: left;
+}
+
+section h2 {
+    font-family: 'Luckiest Guy';
+    color: rgb(197, 137, 16);
+    letter-spacing: 2px;
+    border-bottom: 2px solid rgb(197, 137, 16);
+    margin-bottom: 10px;
+    /* font-size: 1.3rem; */
+}
